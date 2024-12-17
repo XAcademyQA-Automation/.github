@@ -1,4 +1,6 @@
 ## Hi there 👋
+Prácticas realizadas durante el cursado del programa XAcademy QA Automation de Technology with Purpose Foundation
+
 
 <!--
 
